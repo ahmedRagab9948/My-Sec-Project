@@ -4,6 +4,7 @@
     background-position: center;
     background-size: cover;
     height: 800px;
+    width: 1500px;
 }
 
 .first .sec h1{
@@ -34,6 +35,8 @@
     padding: 15px 30px;
     border-radius: 60px;
     width: 100px;
+    display: block;
+    margin: auto;
     margin: 25px;
 }
 .first .sec a[target="blank"]{
@@ -47,6 +50,8 @@
     padding: 15px 30px;
     border-radius: 60px;
     width: 100px;
+    display: block;
+    margin: auto;
 }
 
 
